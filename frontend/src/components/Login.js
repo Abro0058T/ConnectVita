@@ -225,7 +225,7 @@ const Login = () => {
             className="h-12 mt-5 mb-10 new-mobile rounded-lg w-full sm:w-96 border-2 border-slate-500 text-md text-black"
             onClick={HandleRegister}
           >
-            New To ConnectVita? Join Now
+            New To Sharkspade? Join Now
           </button>
         </div>
       </div>

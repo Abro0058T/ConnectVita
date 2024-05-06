@@ -1,14 +1,14 @@
-# ConnectVita (Share Your professional Work)
+# Sharkspade (Share Your professional Work)
 
 ## Features
 
-1) Created ConnectVita, a MERN stack project akin to LinkedIn</br>
+1) Created Sharkspade, a MERN stack project akin to LinkedIn</br>
 2) Enabled multimedia sharing, profile/event creation, connection requests, and profile viewing</br>
 3) Implemented direct chat functionality</br>
 
 ### Instruction to Set up code(Easily)
 
-1 Run cmd (git clone https://github.com/Nipunkhattri/ConnectVita)</br>
+1 Run cmd (git clone https://github.com/Nipunkhattri/Sharkspade)</br>
 2 Oen folder</br>
 3 Run cmd (cd Backend)
 <ul>
@@ -23,4 +23,4 @@
 
 ### Deployed Link
 
-Run url -> (https://connectvita.netlify.app/)
+Run url -> (https://Sharkspade.netlify.app/)
